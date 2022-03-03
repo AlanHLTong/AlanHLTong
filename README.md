@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AlanHLTong
-- 👀 I’m interested in Softwsare Development
-- 🌱 I’m currently learning to be better at leetcode
+- 3rd Year Computer Science Major at HKUST, currently seeking software-related internship (summer/fall/winter/spring). Interested in software, banking, crypto, HFT, AI/ML, and other focused companies.
 - 📫 How to reach me:
 - alanhltong@gmail.com
 - https://www.linkedin.com/in/alan-tong-770187209/
